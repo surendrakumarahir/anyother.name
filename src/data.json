@@ -1,0 +1,213 @@
+[
+  {
+    "reference": "TEMPLATE (DO NOT DELETE)",
+    "image": {
+      "title": "test-slide-09",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/mggxWcGNziIyukGoGy0uk/6051649dd9c7535530c9c4accb85b6e8/test-slide-09.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/mggxWcGNziIyukGoGy0uk/6051649dd9c7535530c9c4accb85b6e8/test-slide-09.jpg?w=300&h=193&q=80 300w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/mggxWcGNziIyukGoGy0uk/6051649dd9c7535530c9c4accb85b6e8/test-slide-09.jpg?w=600&h=385&q=80 600w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/mggxWcGNziIyukGoGy0uk/6051649dd9c7535530c9c4accb85b6e8/test-slide-09.jpg?w=1200&h=770&q=80 1200w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/mggxWcGNziIyukGoGy0uk/6051649dd9c7535530c9c4accb85b6e8/test-slide-09.jpg?w=1800&h=1155&q=80 1800w"
+      }
+    },
+    "video": {
+      "id": "f5e2f3f2-0ffa-5ef1-9b59-f5500d439726",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/1EI4FxwYOIiqSMgm4YkqEU/955e1a0897ce13901477cf16a7b2683b/test-video-trim.mp4",
+        "fileName": "test-video-trim.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  },
+  {
+    "reference": "Clos 19 Brand Film Mobile",
+    "image": null,
+    "video": {
+      "id": "6e40c48d-b56a-5572-9356-2667cb3b9918",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/2GVOgLNBRWyUG5mUo9pp1k/9bdd98beb37e5b4588d9c91d62bb19fd/clos19_aon_preview_1.mp4",
+        "fileName": "clos19_aon_preview_1.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  },
+  {
+    "reference": "Rimowa, The Journey Begins",
+    "image": null,
+    "video": {
+      "id": "49fa8193-a312-5dc3-b655-c0db30df9876",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/2YUhTXHAVEoShyM1GKuMUD/70863290cb24718c52dccba88fdd822a/rimowa-journey-begins.mp4",
+        "fileName": "rimowa-journey-begins.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  },
+  {
+    "reference": "DKNY -AW16 Mens",
+    "image": {
+      "title": "dkny aw16 sp 2",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/1WIKJjC56wjRfUWsGY3mc6/0fe84acb94ac7fc44863fbf7d37c82c8/dkny_aw16_sp_2.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/1WIKJjC56wjRfUWsGY3mc6/0fe84acb94ac7fc44863fbf7d37c82c8/dkny_aw16_sp_2.jpg?w=300&h=187&q=80 300w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/1WIKJjC56wjRfUWsGY3mc6/0fe84acb94ac7fc44863fbf7d37c82c8/dkny_aw16_sp_2.jpg?w=600&h=374&q=80 600w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/1WIKJjC56wjRfUWsGY3mc6/0fe84acb94ac7fc44863fbf7d37c82c8/dkny_aw16_sp_2.jpg?w=1200&h=748&q=80 1200w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/1WIKJjC56wjRfUWsGY3mc6/0fe84acb94ac7fc44863fbf7d37c82c8/dkny_aw16_sp_2.jpg?w=1800&h=1122&q=80 1800w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/1WIKJjC56wjRfUWsGY3mc6/0fe84acb94ac7fc44863fbf7d37c82c8/dkny_aw16_sp_2.jpg?w=2400&h=1496&q=80 2400w,\nhttp://images.ctfassets.net/zwrdw3p6onk7/1WIKJjC56wjRfUWsGY3mc6/0fe84acb94ac7fc44863fbf7d37c82c8/dkny_aw16_sp_2.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "Rimowa Global Retail Films",
+    "image": null,
+    "video": {
+      "id": "d07e91a2-a198-5753-905e-7a817ddd078a",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/3GL4LF83Qj19D1BWIYc0qC/9d6e18f4cbcb30d881ede681c4541a74/rimowa_pip.mp4",
+        "fileName": "rimowa_pip.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  },
+  {
+    "reference": "DKNY Marcelo 1",
+    "image": {
+      "title": "dkny ss16 marcelo 1",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/2rLA98gV9aSRkunzjx5LBV/e76c3231b86f49117d905efea2e9619a/dkny_ss16_marcelo_1.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/2rLA98gV9aSRkunzjx5LBV/e76c3231b86f49117d905efea2e9619a/dkny_ss16_marcelo_1.jpg?w=300&h=187&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/2rLA98gV9aSRkunzjx5LBV/e76c3231b86f49117d905efea2e9619a/dkny_ss16_marcelo_1.jpg?w=600&h=374&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/2rLA98gV9aSRkunzjx5LBV/e76c3231b86f49117d905efea2e9619a/dkny_ss16_marcelo_1.jpg?w=1200&h=748&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/2rLA98gV9aSRkunzjx5LBV/e76c3231b86f49117d905efea2e9619a/dkny_ss16_marcelo_1.jpg?w=1800&h=1122&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/2rLA98gV9aSRkunzjx5LBV/e76c3231b86f49117d905efea2e9619a/dkny_ss16_marcelo_1.jpg?w=2400&h=1496&q=80 2400w,\n//images.ctfassets.net/zwrdw3p6onk7/2rLA98gV9aSRkunzjx5LBV/e76c3231b86f49117d905efea2e9619a/dkny_ss16_marcelo_1.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "DKNY SS16",
+    "image": {
+      "title": "dkny ss16 drake",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/2KTlpaneYoo6Vm3Mg90ZfF/117ae96bd5ddc5cd9e326bcdfac63ca1/dkny_ss16_drake.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/2KTlpaneYoo6Vm3Mg90ZfF/117ae96bd5ddc5cd9e326bcdfac63ca1/dkny_ss16_drake.jpg?w=300&h=187&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/2KTlpaneYoo6Vm3Mg90ZfF/117ae96bd5ddc5cd9e326bcdfac63ca1/dkny_ss16_drake.jpg?w=600&h=374&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/2KTlpaneYoo6Vm3Mg90ZfF/117ae96bd5ddc5cd9e326bcdfac63ca1/dkny_ss16_drake.jpg?w=1200&h=748&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/2KTlpaneYoo6Vm3Mg90ZfF/117ae96bd5ddc5cd9e326bcdfac63ca1/dkny_ss16_drake.jpg?w=1800&h=1122&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/2KTlpaneYoo6Vm3Mg90ZfF/117ae96bd5ddc5cd9e326bcdfac63ca1/dkny_ss16_drake.jpg?w=2400&h=1496&q=80 2400w,\n//images.ctfassets.net/zwrdw3p6onk7/2KTlpaneYoo6Vm3Mg90ZfF/117ae96bd5ddc5cd9e326bcdfac63ca1/dkny_ss16_drake.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "DKNY Missing Pieces",
+    "image": null,
+    "video": {
+      "id": "44c20baa-8183-5a1e-a283-5034d391d2ec",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/6AFpa2jzcUTwZcFr8sb8mP/f018d6c67ac0a2b2e672dd41dd9459b8/dkny_greta_gerwig_ss16.mp4",
+        "fileName": "dkny_greta_gerwig_ss16.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  },
+  {
+    "reference": "Rimowa Journeys",
+    "image": null,
+    "video": {
+      "id": "16b03c57-7940-55f6-8d14-bdc58ecf94ad",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/2qwYIWiUvRoRAutK89YKOG/23d58ad70d04df70f8c3bd3cc43f53b9/rimowa_journeys-car.mp4",
+        "fileName": "rimowa_journeys-car.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  },
+  {
+    "reference": "DKNY Runway Editorial 1",
+    "image": {
+      "title": "dkny-ss16-runway",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/36ew1Fx1VFfIFGFWXGAm7y/5211c371d5b4e63aaf63143ca9a9a816/dkny_ss16_runway.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/36ew1Fx1VFfIFGFWXGAm7y/5211c371d5b4e63aaf63143ca9a9a816/dkny_ss16_runway.jpg?w=300&h=187&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/36ew1Fx1VFfIFGFWXGAm7y/5211c371d5b4e63aaf63143ca9a9a816/dkny_ss16_runway.jpg?w=600&h=374&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/36ew1Fx1VFfIFGFWXGAm7y/5211c371d5b4e63aaf63143ca9a9a816/dkny_ss16_runway.jpg?w=1200&h=748&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/36ew1Fx1VFfIFGFWXGAm7y/5211c371d5b4e63aaf63143ca9a9a816/dkny_ss16_runway.jpg?w=1800&h=1122&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/36ew1Fx1VFfIFGFWXGAm7y/5211c371d5b4e63aaf63143ca9a9a816/dkny_ss16_runway.jpg?w=2400&h=1496&q=80 2400w,\n//images.ctfassets.net/zwrdw3p6onk7/36ew1Fx1VFfIFGFWXGAm7y/5211c371d5b4e63aaf63143ca9a9a816/dkny_ss16_runway.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "DKNY Runway Editorial 2",
+    "image": {
+      "title": "dkny ss16 runwayb",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/6ZgSpuyS0QGj7qS4TN1R1e/059a218a47886bf9c5888b289ad7f804/dkny_ss16_runway_b.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/6ZgSpuyS0QGj7qS4TN1R1e/059a218a47886bf9c5888b289ad7f804/dkny_ss16_runway_b.jpg?w=300&h=187&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/6ZgSpuyS0QGj7qS4TN1R1e/059a218a47886bf9c5888b289ad7f804/dkny_ss16_runway_b.jpg?w=600&h=374&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/6ZgSpuyS0QGj7qS4TN1R1e/059a218a47886bf9c5888b289ad7f804/dkny_ss16_runway_b.jpg?w=1200&h=748&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/6ZgSpuyS0QGj7qS4TN1R1e/059a218a47886bf9c5888b289ad7f804/dkny_ss16_runway_b.jpg?w=1800&h=1122&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/6ZgSpuyS0QGj7qS4TN1R1e/059a218a47886bf9c5888b289ad7f804/dkny_ss16_runway_b.jpg?w=2400&h=1496&q=80 2400w,\n//images.ctfassets.net/zwrdw3p6onk7/6ZgSpuyS0QGj7qS4TN1R1e/059a218a47886bf9c5888b289ad7f804/dkny_ss16_runway_b.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "Bozart Branding",
+    "image": {
+      "title": "bozart-bozarthfornell-branding",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/nV1ZSets1tfYJhr59AjYr/b2ca83669930b384619ba08167b976e8/bozart_branding.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/nV1ZSets1tfYJhr59AjYr/b2ca83669930b384619ba08167b976e8/bozart_branding.jpg?w=300&h=187&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/nV1ZSets1tfYJhr59AjYr/b2ca83669930b384619ba08167b976e8/bozart_branding.jpg?w=600&h=374&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/nV1ZSets1tfYJhr59AjYr/b2ca83669930b384619ba08167b976e8/bozart_branding.jpg?w=1200&h=748&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/nV1ZSets1tfYJhr59AjYr/b2ca83669930b384619ba08167b976e8/bozart_branding.jpg?w=1800&h=1122&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/nV1ZSets1tfYJhr59AjYr/b2ca83669930b384619ba08167b976e8/bozart_branding.jpg?w=2400&h=1496&q=80 2400w,\n//images.ctfassets.net/zwrdw3p6onk7/nV1ZSets1tfYJhr59AjYr/b2ca83669930b384619ba08167b976e8/bozart_branding.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "Bozart 2",
+    "image": {
+      "title": "bozart branding b",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/1yOr0OsV3YdFKfpJapctzk/4e1e32858233deb7d7789159ecf63765/bozart_branding_b.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/1yOr0OsV3YdFKfpJapctzk/4e1e32858233deb7d7789159ecf63765/bozart_branding_b.jpg?w=300&h=187&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/1yOr0OsV3YdFKfpJapctzk/4e1e32858233deb7d7789159ecf63765/bozart_branding_b.jpg?w=600&h=374&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/1yOr0OsV3YdFKfpJapctzk/4e1e32858233deb7d7789159ecf63765/bozart_branding_b.jpg?w=1200&h=748&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/1yOr0OsV3YdFKfpJapctzk/4e1e32858233deb7d7789159ecf63765/bozart_branding_b.jpg?w=1800&h=1122&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/1yOr0OsV3YdFKfpJapctzk/4e1e32858233deb7d7789159ecf63765/bozart_branding_b.jpg?w=2400&h=1496&q=80 2400w,\n//images.ctfassets.net/zwrdw3p6onk7/1yOr0OsV3YdFKfpJapctzk/4e1e32858233deb7d7789159ecf63765/bozart_branding_b.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "Clos 19 Categories",
+    "image": null,
+    "video": {
+      "id": "6eb13735-ba07-54df-b8f6-e38e44ac3a8c",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/66iu4AnEEwaQ6nw7GAfqiZ/f518388e88924a9fe98ee838e6e75278/clos_19_categories.mp4",
+        "fileName": "clos_19_categories.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  },
+  {
+    "reference": "Clos 19, Branded Content",
+    "image": {
+      "title": "clos19-get-together",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/1ZiZ8PrnHtRdcnKIPGShfc/6c8a8704736215d99cdf2ebd80d6bea4/clos19_gettogether?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/1ZiZ8PrnHtRdcnKIPGShfc/6c8a8704736215d99cdf2ebd80d6bea4/clos19_gettogether?w=300&h=193&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/1ZiZ8PrnHtRdcnKIPGShfc/6c8a8704736215d99cdf2ebd80d6bea4/clos19_gettogether?w=600&h=386&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/1ZiZ8PrnHtRdcnKIPGShfc/6c8a8704736215d99cdf2ebd80d6bea4/clos19_gettogether?w=1200&h=771&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/1ZiZ8PrnHtRdcnKIPGShfc/6c8a8704736215d99cdf2ebd80d6bea4/clos19_gettogether?w=1800&h=1157&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/1ZiZ8PrnHtRdcnKIPGShfc/6c8a8704736215d99cdf2ebd80d6bea4/clos19_gettogether?w=1909&h=1227&q=80 1909w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "Clos 19 Ad",
+    "image": {
+      "title": "Clos-19-Advertising",
+      "fluid": {
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "src": "http://images.ctfassets.net/zwrdw3p6onk7/3o6w4vtSuiollpZYCa9aDK/148f300ad0da280326f14becd137d3a3/clos19_sp_ad.jpg?w=1200&q=80",
+        "srcSet": "http://images.ctfassets.net/zwrdw3p6onk7/3o6w4vtSuiollpZYCa9aDK/148f300ad0da280326f14becd137d3a3/clos19_sp_ad.jpg?w=300&h=187&q=80 300w,\n//images.ctfassets.net/zwrdw3p6onk7/3o6w4vtSuiollpZYCa9aDK/148f300ad0da280326f14becd137d3a3/clos19_sp_ad.jpg?w=600&h=374&q=80 600w,\n//images.ctfassets.net/zwrdw3p6onk7/3o6w4vtSuiollpZYCa9aDK/148f300ad0da280326f14becd137d3a3/clos19_sp_ad.jpg?w=1200&h=748&q=80 1200w,\n//images.ctfassets.net/zwrdw3p6onk7/3o6w4vtSuiollpZYCa9aDK/148f300ad0da280326f14becd137d3a3/clos19_sp_ad.jpg?w=1800&h=1122&q=80 1800w,\n//images.ctfassets.net/zwrdw3p6onk7/3o6w4vtSuiollpZYCa9aDK/148f300ad0da280326f14becd137d3a3/clos19_sp_ad.jpg?w=2400&h=1496&q=80 2400w,\n//images.ctfassets.net/zwrdw3p6onk7/3o6w4vtSuiollpZYCa9aDK/148f300ad0da280326f14becd137d3a3/clos19_sp_ad.jpg?w=2874&h=1792&q=80 2874w"
+      }
+    },
+    "video": null
+  },
+  {
+    "reference": "Chanel, NYT",
+    "image": null,
+    "video": {
+      "id": "7aca0a7b-c5be-5bbf-ab96-6e3ec7456dc9",
+      "file": {
+        "url": "http://videos.ctfassets.net/zwrdw3p6onk7/NWaZo1psD4TCOvFAInmNU/fa84ee99955b4eabafa90c28f7e71f27/chanel_nyt_preview_dt.mp4",
+        "fileName": "chanel_nyt_preview_dt.mp4",
+        "contentType": "video/mp4"
+      }
+    }
+  }
+]
